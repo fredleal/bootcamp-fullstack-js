@@ -34,3 +34,6 @@ var recordCollection = {
   }
   
   updateRecords(recordCollection, 5439, 'artist', 'ABBA');
+
+  console.log(recordCollection[5439]);
+  console.log(recordCollection[1245]);
