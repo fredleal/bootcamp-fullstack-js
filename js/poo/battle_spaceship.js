@@ -3,4 +3,4 @@ class BattleSpaceship extends Spaceship {
       super(name, crewQuantity)
       this.weaponsQuantity = weaponsQuantity
     }
-  }
+  } 
